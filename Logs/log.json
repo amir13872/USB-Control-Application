@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-01-08 14:30:00",
+    "device_name": "SanDisk USB",
+    "hardware_id": "USB_HW_ID_1",
+    "action": "eject",
+    "password_status": "failed"
+  },
+  {
+    "timestamp": "2025-01-08 14:35:00",
+    "device_name": "Kingston USB",
+    "hardware_id": "USB_HW_ID_2",
+    "action": "allow",
+    "password_status": "success"
+  }
+]

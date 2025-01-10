@@ -1,0 +1,5 @@
+{
+  "password_hash": "hashed_password_here",
+  "trusted_devices": ["USB_HW_ID_1", "USB_HW_ID_2"],
+  "program_status": "active"
+}

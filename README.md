@@ -39,7 +39,7 @@ USBControlApp
 ## Setup Instructions
 1. **Clone the Repository**: 
    ```
-   git clone <repository-url>
+   git clone https://github.com/amir13872/USB-Control-Application.git
    ```
 2. **Navigate to the Project Directory**:
    ```
